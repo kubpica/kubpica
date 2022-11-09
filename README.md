@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Chess for idiots](https://store.steampowered.com/app/2121150/Chess_for_idiots/ "Chess for idiots")
-- :iphone: My Android games: [Google Play](https://play.google.com/store/apps/developer?id=Niebieski+Punkt "Niebieski Punkt"), [Repo of one of my games](https://github.com/kubpica/Laska "3D Checkers")
-- :computer: My PC games: [Steam](https://store.steampowered.com/search/?developer=Polish%20Hacker "Polish Hacker"), [itch.io](https://kubpica.itch.io/ "kubpica")
-- :deciduous_tree::syringe: My DI asset for Unity: [Asset Store](https://assetstore.unity.com/packages/tools/integration/dependencyattributes-atreebooster-di-157631 "atreebooster/store"), [Repo](https://github.com/kubpica/AtreeboosterDI "atreebooster/git")
-- :video_game: My T2 mod: [English video](https://www.youtube.com/watch?v=1AdCIsdHNWQ "yt/PolishHacker"), [Polish video](https://www.youtube.com/watch?v=-cto3fIOtC0 "yt/InżynierJP"), [Main repo](https://github.com/kubpica/T2KubsMod "t2mod/git"), [Codec repo](https://github.com/kubpica/InterleavingPackerUnpacker "InterleavingPackerUnpacker")
-- :gun: My CS:GO map: [jb_crazyjump](https://steamcommunity.com/sharedfiles/filedetails/?id=484086253 "CS:GO JB Map")
+- :iphone: My Android games: [[Google Play]](https://play.google.com/store/apps/developer?id=Niebieski+Punkt "Niebieski Punkt"), [[Repo of one of my games]](https://github.com/kubpica/Laska "3D Checkers")
+- :computer: My PC games: [[Steam]](https://store.steampowered.com/search/?developer=Polish%20Hacker "Polish Hacker"), [[itch.io]](https://kubpica.itch.io/ "kubpica")
+- :deciduous_tree::syringe: My DI asset for Unity: [Asset Store](https://assetstore.unity.com/packages/tools/integration/dependencyattributes-atreebooster-di-157631 "atreebooster/store"), [[Repo]](https://github.com/kubpica/AtreeboosterDI "atreebooster/git")
+- :video_game: My T2 mod: [[English video]](https://www.youtube.com/watch?v=1AdCIsdHNWQ "yt/PolishHacker"), [[Polish video]](https://www.youtube.com/watch?v=-cto3fIOtC0 "yt/InżynierJP"), [[Main repo]](https://github.com/kubpica/T2KubsMod "t2mod/git"), [[Codec repo]](https://github.com/kubpica/InterleavingPackerUnpacker "InterleavingPackerUnpacker")
+- :gun: My CS:GO map: [[jb_crazyjump]](https://steamcommunity.com/sharedfiles/filedetails/?id=484086253 "CS:GO JB Map")
 
 <!--
 **kubpica/kubpica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
