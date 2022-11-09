@@ -7,6 +7,11 @@
 - :gun: My CS:GO map: [jb_crazyjump](https://steamcommunity.com/sharedfiles/filedetails/?id=484086253 "CS:GO JB Map")
 - :movie_camera: My TikTok (gamedev&fun): [@warcoins](https://www.tiktok.com/@warcoins "TikTok/@warcoins")
 
+### About my games:
+- [Head Bumper](https://store.steampowered.com/app/1398130/Head_Bumper_Editcraft/ "Head Bumper on Steam"): 2D platformer with built-in level & block editor. The game is integrated with Steam Workshop. Anyone can create their own blocks, upload them to the workshop and then build level using these blocks. Blocks can be configured in many different ways - for a creative person, the possibilities are almost endless. Levels are hosted on my Linux VPS with implemented REST API in .NET Core and MongoDB, while the game itself runs on the Unity engine. The prototype of this game was my engineering thesis.
+- [The Bilionerzy](https://play.google.com/store/apps/details?id=com.NiebieskiPunkt.TheBilionerzy "The Bilionerzy on Google Play"): This game is parody of "Żulionerzy" which is parody of "Who Wants to Be a Millionaire?" - the goal was to create the most absurd quiz game! The game tries to break the convention in all possible ways, one of which is that a question may have more than one correct answer, but you only need to select one, which allows for many creative questions. There are a few other innovations in the game, I do not want to list them all here, but as an example I will tell you that every player and every question has its own elo ranking just like in chess - the ranking of the question helps to determine its difficulty, and the player's ranking shows how good he is.
+- 
+
 <!--
 **kubpica/kubpica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
